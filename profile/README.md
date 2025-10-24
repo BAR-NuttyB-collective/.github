@@ -1,6 +1,3 @@
-# .github
-ORG Profile
-
 # 🦖 collective NuttyB
 
 A community-driven home for the modern Raptors/Scavengers PvE experience in Beyond All Reason (BAR). We improve, document, and distribute the evolving “collective NuttyB” configuration, guides, and tooling so that players, developers, and doc writers have a single place to start.
@@ -8,7 +5,7 @@ A community-driven home for the modern Raptors/Scavengers PvE experience in Beyo
 ## 🎮 Quickstart for Players
 
 1. Open the Collective NuttyB Configurator: https://bar-nuttyb-collective.github.io/configurator/
-2. Select your tweaks and options. The page will generate SPADS lobby command blocks for you.
+2. Select your tweaks and options. The page will generate lobby command blocks for you.
 3. Copy each “Part” into the BAR lobby chat as instructed on the page.
 4. Start a Raptors or Scavengers game and have fun.
 
@@ -88,7 +85,7 @@ If we missed you, open a Discussion with details and links so we can add proper 
 ## 🧑‍🤝‍🧑 Community
 
 - GitHub Discussions (primary hub): https://github.com/orgs/BAR-NuttyB-collective/discussions
-- BAR Discord Raptors thread (linked across repos; join BAR Discord and search for “NuttyB Raptors” thread).
+- BAR Discord Raptors thread: https://discord.com/channels/549281623154229250/1168959237641216131
 
 ## 🔗 Related BAR updates
 
