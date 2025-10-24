@@ -9,7 +9,7 @@ A community-driven home for the modern Raptors/Scavengers PvE experience in Beyo
 3. Copy each “Part” into the BAR lobby chat as instructed on the page.
 4. Start a Raptors or Scavengers game and have fun.
 
-Helpful links inside the configurator:
+Helpful links:
 - WIKI: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki
 - Newcomers Guide: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki/Newcomers-Guide
 
@@ -54,7 +54,7 @@ If you have missing pieces of history, screenshots, or guides, please share them
 Credits derived from `NuttyB-Raptors` git history and changelog:
 - Backbash — project ownership and early balance and unit updates.
 - tetrisface — converters, T3 eco and builders, tooling, minification, many tweaks and release flow.
-- rcorex — raptor mechanics, spawn system, balance updates, large contributions to configurator sync.
+- rcorex — raptor mechanics, spawn system, balance updates and original creator of the configurator.
 - 00fast00 — launcher and LRPC rebalances, recent features, and guides.
 - timuela — launcher range adjustments.
 - Lu5ck — base64 automation.
@@ -87,14 +87,15 @@ If we missed you, open a Discussion with details and links so we can add proper 
 - GitHub Discussions (primary hub): https://github.com/orgs/BAR-NuttyB-collective/discussions
 - BAR Discord Raptors thread: https://discord.com/channels/549281623154229250/1168959237641216131
 
-## 🔗 Related BAR updates
-
-- Official BAR microblog on Raptors/Scavengers changes: https://www.beyondallreason.info/microblogs/40
-
 ## 📣 Get involved
 
 - Players: Use the Configurator Quickstart and share your builds and replays in Discussions.
 - Developers: Open issues/PRs in the relevant repo; add notes to `CHANGELOG.md` and Wiki.
 - Doc writers: Propose outline updates in Discussions, then contribute pages in the Wiki.
+- Streamers: Stream BAR Raptors/Scavengers on Twitch/YouTube. Add links to the Configurator and Wiki in your description and tag your stream with "Beyond All Reason" and "Raptors".
+- Content creators: Publish guides, clips, and highlights. Cross‑post in GitHub Discussions and the BAR Discord thread. Include the configurator link for viewers to try your setup.
+- Event hosts: Organize community runs (e.g., “100 Queens Challenge”) and post schedules/results in Discussions. We’ll help amplify.
+- Replay highlights: Share memorable games and team comps in Discussions with a short description and your settings.
+- Widget/tool authors: Announce your releases in Discussions and add a short section to the Wiki linking your repo.
 
 — The collective NuttyB maintainers
