@@ -1,6 +1,10 @@
 # 🦖 collective NuttyB
 
-A community-driven home for the modern Raptors/Scavengers PvE experience in Beyond All Reason (BAR). We improve, document, and distribute the evolving “collective NuttyB” configuration, guides, and tooling so that players, developers, and doc writers have a single place to start.
+A community-driven home for the modern Raptors/Scavengers PvE experience in Beyond All Reason (BAR). 
+
+**What is NuttyB?** NuttyB Raptors is a different flavor from vanilla BAR tailored for a Defense Survival Game experience, allowing a challenging but fair gameplay with better replayability. It features fun & challenging game modes, tweaked units & buildings, special commander upgrades, and all extra units & buildings from the game.
+
+We improve, document, and distribute the evolving "collective NuttyB" configuration, guides, and tooling so that players, developers, and doc writers have a single place to start.
 
 ## 🎮 Quickstart for Players
 
@@ -12,6 +16,7 @@ A community-driven home for the modern Raptors/Scavengers PvE experience in Beyo
 Helpful links:
 - WIKI: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki
 - Newcomers Guide: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki/Newcomers-Guide
+- NuttyB 1.52 Documentation: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki/NuttyB-1.52
 
 ### Featured gameplay
 - 100 Queens Replay: https://www.beyondallreason.info/replays?gameId=59d5c568d459673a59b605cfa810fcee
@@ -51,16 +56,25 @@ If you have missing pieces of history, screenshots, or guides, please share them
 
 ## 👥 Credits and authors
 
-Credits derived from `NuttyB-Raptors` git history and changelog:
+Credits derived from `NuttyB-Raptors` git history, changelog, and historical documentation:
+
+**Active contributors:**
 - Backbash — project ownership and early balance and unit updates.
 - tetrisface — converters, T3 eco and builders, tooling, minification, many tweaks and release flow.
 - rcorex — raptor mechanics, spawn system, balance updates and original creator of the configurator.
-- 00fast00 — launcher and LRPC rebalances, recent features, and guides.
+- Fast — launcher rebalances, recent features, and guides.
 - timuela — launcher range adjustments.
-- Lu5ck — base64 automation.
+- Lu5ck — base64 automation and LRPC rebalance review.
 - autolumn — helper commands.
 
-Documentation contributors and sources:
+**Historical contributors:**
+- ChrispyNut (aka ChrisPeanut) — original Nutty Raptor creator (2023).
+- Damgam — maintainer of the vanilla RaptorMod.
+- scott0x — revamped raptor eco pathing.
+- myriari — testing and feedback.
+- WanderingStranger — key ideas and improvements.
+
+**Documentation contributors:**
 - Cynder Quinn (CQs) — author of the Newcomers Guide (adapted into the Wiki).
 - Fast — additional written guides and resources.
 
