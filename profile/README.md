@@ -58,16 +58,15 @@ If you have missing pieces of history, screenshots, or guides, please share them
 
 Credits derived from `NuttyB-Raptors` git history, changelog, and historical documentation:
 
-**Active contributors:**
-- Backbash — project ownership and early balance and unit updates.
-- tetrisface — converters, T3 eco and builders, tooling, minification, many tweaks and release flow.
-- rcorex — raptor mechanics, spawn system, balance updates and original creator of the configurator.
-- Fast — launcher rebalances, recent features, and guides.
-- timuela — launcher range adjustments.
-- Lu5ck — base64 automation and LRPC rebalance review.
-- autolumn — helper commands.
+**Contributors:**
+- [Backbash](https://github.com/Backbash) — project ownership and early balance and unit updates.
+- [tetrisface](https://github.com/tetrisface) — converters, T3 eco and builders, tooling, minification, many tweaks and release flow.
+- [rcorex](https://github.com/rcorex) — raptor mechanics, spawn system, balance updates and original creator of the configurator.
+- [Fast](https://github.com/00fast00) — launcher rebalances, recent features, and guides.
+- [timuela](https://github.com/timuela) — launcher range adjustments.
+- [Lu5ck](https://github.com/Lu5ck) — base64 automation and LRPC rebalance review.
+- [autolumn](https://github.com/autolumn) — helper commands.
 
-**Historical contributors:**
 - ChrispyNut (aka ChrisPeanut) — original Nutty Raptor creator (2023).
 - Damgam — maintainer of the vanilla RaptorMod.
 - scott0x — revamped raptor eco pathing.
