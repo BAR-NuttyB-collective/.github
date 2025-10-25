@@ -15,12 +15,11 @@ We improve, document, and distribute the evolving "collective NuttyB" configurat
 
 Helpful links:
 - WIKI: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki
-- Newcomers Guide: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki/Newcomers-Guide
-- NuttyB 1.52 Documentation: https://github.com/BAR-NuttyB-collective/NuttyB-Raptors/wiki/NuttyB-1.52
 
 ### Featured gameplay
-- 100 Queens Replay: https://www.beyondallreason.info/replays?gameId=59d5c568d459673a59b605cfa810fcee
-- 100 Queens YouTube Video: https://www.youtube.com/watch?v=WL4swUdSSCY
+- 100 Queens (this used NuttyB 1.52):
+  - Replay: https://www.beyondallreason.info/replays?gameId=59d5c568d459673a59b605cfa810fcee
+  - YouTube Video: https://www.youtube.com/watch?v=WL4swUdSSCY
 
 ## ✨ Why the name “collective NuttyB”
 
